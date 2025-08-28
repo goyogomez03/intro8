@@ -1,3 +1,4 @@
 import streamlit as st
 st.title("Mi primera app")
-image = image.open('perro.webp')
+image = Image.open('perro.webp')
+st.
